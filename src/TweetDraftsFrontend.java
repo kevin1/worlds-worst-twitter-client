@@ -1,5 +1,3 @@
-// -Dawt.useSystemAAFontSettings=on -Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
